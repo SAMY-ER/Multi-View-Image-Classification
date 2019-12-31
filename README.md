@@ -1,4 +1,4 @@
-# Multi-View-Image-Classification
+# Multi-View Image Classification
 
 ## Introduction
 

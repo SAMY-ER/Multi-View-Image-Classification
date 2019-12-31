@@ -60,4 +60,4 @@ The performance of the models is measured by a weighted accuracy to account for 
 
 Approach 1 (SURF + LR) | Approach 2 (MVCNN)
 ---------------------- | ------------------
-<center>92%</center> | <center>98%</center>
+92% | 98%
